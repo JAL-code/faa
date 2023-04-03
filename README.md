@@ -1,2 +1,2 @@
-# faa
-A demonstration of the skills with python and json files  with FAA data
+# FAA
+A demonstration of the skills with python and json files using FAA data
