@@ -1,5 +1,5 @@
 # FAA
-A demonstration of using skills with python and json files using [FAA Documentation](https://av-info.faa.gov/dd_sublevel.asp?Folder=%5CSDRS).
+A demonstration of using skills with python and json files using [FAA Documentation](https://www.faa.gov/data_research/aviation_data_statistics/data_downloads).
 
 ## List of Documents
 1. ECFR Content: Displaying title 14, up to date as of 3/30/2023. Title 14 was last amended 3/21/2023. Loaded 4/3/2023.
