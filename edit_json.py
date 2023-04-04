@@ -30,7 +30,7 @@ def load_products(file_name):
     with open(file_name, 'r' , encoding='utf8') as data_file:  
         data_loaded = json.load(data_file)
     return data_loaded
-#C:\Users\Joseph\Documents\GitHub\faa\title-14.json
+
 # save an indent formatted json file.
 def save_list_of_items(data, datasave):
     with open(datasave, 'w') as file:
